@@ -1,0 +1,14 @@
+#!/bin/bash
+
+input="input.txt"
+
+while read line;
+do
+
+  filename=$(echo "$line" | awk -F' ' '{print $1}')
+  oldpass=$(echo "$line" | awk -F' ' '{print $2}')
+  newpass=$(echo "$line" | awk -F' ' '{print $3}')
+
+  sed -i "s/${oldpass}/${newpass}/g" ${filename}
+
+done < $input
