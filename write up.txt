@@ -1,25 +1,40 @@
-Jagdish Harad:
+Ram and srinath:
+ADO Dashboard Migration to ADMS
+Successfully migrated all ADO dashboards to ADMS (Application Dashboard Management System), ensuring centralized management and improved efficiency in dashboard usage and maintenance.
+Centralized Service for ADO
+Established a centralized service framework for ADO, consolidating multiple services under one umbrella to streamline operations and enhance service delivery.
+SSL Certificate Renewal for Greenwich and Coalition Applications
+Completed SSL certificate renewal for external applications (Greenwich and Coalition), ensuring uninterrupted secure access and compliance with security protocols.
+Disaster Recovery (DR) Success for Funds and Ratings Applications
+Assisted the DR team in achieving successful disaster recovery for critical applications such as funds and ratings, ensuring business continuity and resilience.
+PMP Migration and VA Closure
+Executed PMP (Project Management Platform) migration from one server to another, resolving open VA (Vulnerability Assessment) points to enhance platform security and functionality.
+Password Automation Script Implementation
+Developed and implemented a password automation script for Windows applications, enhancing security and operational efficiency through automated credential management.
+Inventory Migration in Hyper Portal
+Successfully migrated inventory data in Hyper Portal, ensuring data integrity and accessibility while optimizing portal performance.
+SOP Preparation for Internal Team
+Developed Standard Operating Procedures (SOPs) for the internal team, providing clear guidelines for processes and enhancing operational consistency and effectiveness.
+Change Request Data Provision for Audit
+Provided necessary data for change requests as part of audit requirements, ensuring compliance and transparency in change management processes.
+Cloud Tools Handover and Management
+Completed successful handover of cloud tools management, enabling efficient ongoing management and support of cloud resources and services.
+Critical Incident Resolution and Release Support
+Participated in critical incident calls and assisted in resolving incidents from the release perspective, ensuring minimal disruption to operations and customer service.
+Application Migration to Centralized Systems (Grafana or EFK)
+Coordinated with application owners to migrate applications to centralized systems such as Grafana or EFK (Elasticsearch, Fluentd, Kibana), enhancing data visibility and operational efficiency.
 
-Introduction:
-In just one short month, [Nominee's Name] has already proven to be a shining star within our team. Their exceptional performance, dedication to their work, and willingness to take on responsibility have set them apart as a true asset to our organization.
-
-Accomplishments:
-
-Outstanding Work Ethic: From day one, [Nominee's Name] has demonstrated an unparalleled work ethic. They consistently go above and beyond expectations to deliver high-quality results on time and with meticulous attention to detail.
-
-Quick Learner: Despite their brief tenure, [Nominee's Name] has quickly grasped complex tasks and processes, showing a remarkable ability to learn and adapt. Their eagerness to learn new skills and techniques has greatly benefited our team.
-
-Taking Initiative: [Nominee's Name] has not hesitated to take initiative in tackling challenges and solving problems proactively. They have shown a commendable level of initiative in suggesting improvements and implementing solutions that have streamlined workflows.
-
-Team Player: Beyond individual achievements, [Nominee's Name] has seamlessly integrated into our team dynamic. They actively contribute to team discussions, offer valuable insights, and support colleagues, fostering a collaborative and positive work environment.
 
 
 
-
-In just [Tenure in the company], [Nominee's Name] has played a crucial role in our audit processes, particularly in providing evidence for ITGC and GRRS. They have effectively coordinated with auditors, ensuring timely and accurate collection of necessary documentation and information.
-
-[Nominee's Name] demonstrates meticulous attention to detail, ensuring all evidence meets the specific requirements of ITGC and GRRS. Their thorough approach has been instrumental in facilitating smooth audits and compliance assessments.
-
-Moreover, [Nominee's Name] has leveraged audit findings to propose and implement improvements in our IT infrastructure. Their proactive initiatives have enhanced operational efficiency and strengthened our ability to meet regulatory requirements.
-
-[Nominee's Name]'s dedication and competence have significantly contributed to our team's success in maintaining high standards of governance and risk management. They are a valued team member whose efforts continue to drive positive outcomes for our organization.
+Surednra:
+Disaster Recovery (DR) Activity Support
+Played a pivotal role in the successful completion of Disaster Recovery (DR) activities, demonstrating commitment by extending shifts to ensure continuity and resilience of critical systems.
+Service Creation in ADMS for ADO Pipeline
+Designed and implemented a new service in ADMS (Application Dashboard Management System) to automate access approvals for ADO pipelines. This streamlined the approval process, replacing manual efforts and improving efficiency.
+Script Refactoring and Testing for Smart Applications
+Took initiative to refactor scripts for all smart applications, rigorously testing and ensuring their seamless functionality. This proactive approach enhanced reliability and performance across application environments.
+Learning and Involvement in DevOps Tools
+Actively engaged in learning DevOps tools and methodologies, contributing to critical activities within the organization. This initiative reflects a commitment to enhancing technical skills and driving continuous improvement.
+Support to Release Team for Application Handover
+Assisted the release team in completing the smooth handover of applications under release control. This collaboration facilitated efficient management and operational continuity of applications during transitions.
